@@ -5,7 +5,8 @@ int main()
     printf("Digite uma nota de A a F: ");
     scanf("%c", &nota_conceito);
 
-    switch (nota_conceito) {
+    switch (nota_conceito)
+    {
         case 'A' :
             printf("EXCELENTE");
             break;
