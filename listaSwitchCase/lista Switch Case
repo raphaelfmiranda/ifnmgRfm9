@@ -1,0 +1,45 @@
+SWITCH CASE
+
+1. Crie um programa que lê o conceito de um aluno na disciplina BCC201 (Algoritmos e Programação) e imprime seu significado, de acordo com a tabela abaixo.
+Caso seja informado um conceito inexistente, deve ser exibida uma mensagem de erro.
+|-------------------------------------------------|
+| Conceito | Significado                          |
+|-------------------------------------------------|
+| A        | Excelente                            |
+| B        | Ótimo                                |
+| C        | Bom                                  |
+| D        | Regular                              |
+| E        | Ruim                                 |
+| F        | Nos vemos novamente no próximo ano…  |
+--------------------------------------------------|
+
+
+2. Faça um programa que receba do usuário um valor de (1 a 10) e mostre o valor correspondente em algarismos romanos. 
+
+
+3. Faça um programa que receba dois números e execute as operações listadas a seguir de acordo com a escolha do usuário: 
+-------------------------------------------------------------|
+| Escolha do usuário  | Operação                             |
+-------------------------------------------------------------|
+| 1                   | Média entre os números digitados     |
+| 2                   | Diferença entre os números           |
+| 3                   | Produtos entre os números digitados  |
+| 4                   | Divisão do primeiro pelo segundo     |
+--------------------------------------------------------------
+Se a opção digitada for inválida, mostrar uma mensagem de erro e terminar a execução do programa.
+
+
+
+4. O cardápio de uma casa de lanches é dado pela tabela abaixo: 
+|------------------------------------------------------------|
+| Código | Produto          | Preço Unitário (R$)            |
+| -----------------------------------------------------------|
+| 100    | Cachorro quente  | 1.70                           |
+| 101    | Bauru Simples    | 2.30                           |
+| 102    | Bauru com ovo    | 2.60                           |
+| 103    | Hamburguer       | 2.40                           |
+| 104    | Cheeseburguer    | 2.50                           |
+| 105    | Refrigerante     | 1.00                           |
+-------------------------------------------------------------|
+Escreva um algoritmo que leia o código do item adquirido pelo consumidor e a quantidade, calculando e mostrando o valor a pagar. Não será necessário exibir o produto e o valor, somente o valor final.
+
