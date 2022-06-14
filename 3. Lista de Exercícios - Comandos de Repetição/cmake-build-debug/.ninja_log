@@ -1,4 +1,10 @@
 # ninja log v5
-0	162	1655247783371394163	build.ninja	986f7bb17ec7ca6b
-64	131	1654149052290975557	IFNMG_algoritmoEprogramacao	965cb43b4db233f8
-0	64	1654149052222415455	CMakeFiles/IFNMG_algoritmoEprogramacao.dir/comandosDeRepeticao12.c.o	4edb52694fbca2c1
+0	120	1655249712767754946	CMakeFiles/IFNMG_algoritmoEprogramacao.dir/comandosDeRepeticao14.c.o	ff4968ccf57723f5
+1	131	1655249248031617635	CMakeFiles/IFNMG_algoritmoEprogramacao.dir/comandosDeRepeticao13.c.o	35d4cebf72f4f254
+0	214	1655248202129893237	CMakeFiles/IFNMG_algoritmoEprogramacao.dir/comandosDeRepeticao1.c.o	7dd472dbb3bd0635
+1	121	1655248250112691345	CMakeFiles/IFNMG_algoritmoEprogramacao.dir/comandosDeRepeticao2.c.o	5b4d6c90fe862258
+0	106	1655248665531908798	CMakeFiles/IFNMG_algoritmoEprogramacao.dir/comandosDeRepeticao12.c.o	4f9b2e7b23d7738e
+120	219	1655249712869564457	IFNMG_algoritmoEprogramacao	3cae452e93aa0212
+1	188	1655250056193953089	build.ninja	1d189723befd0e7e
+0	92	1655250059212072574	CMakeFiles/IFNMG_algoritmoEprogramacao.dir/comandosDeRepeticao15.c.o	bfe79d6d5783e6fe
+93	224	1655250059339046589	IFNMG_algoritmoEprogramacao	4ab7174349bdf6c0

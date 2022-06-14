@@ -2,7 +2,9 @@ Lista de Exercícios: Comandos de Repetição
 
 1) Escreva um algoritmo que exiba 20 vezes a mensagem “Eu gosto de estudar Algoritmos!”.
 
-2) Escreva um algoritmo que calcule a soma dos números de 1 a 15. 3) Leia o nome do usuário e escreva o nome dele na tela 10 vezes.
+2) Escreva um algoritmo que calcule a soma dos números de 1 a 15.
+
+3) Leia o nome do usuário e escreva o nome dele na tela 10 vezes.
 
 4) Leia o nome um número do usuário um número N e escreva o nome dele na tela N vezes.
 

@@ -2,16 +2,21 @@
 
 int main(void)
 {
+    int nDigitado, quantidadeNpares;
 
-    int nDigitado;
+    printf("Escreva um algoritmo que leia 20 números do usuário e exiba quantos números são pares: \n");
+    printf("Digite 20 numeros: \n");
 
-    printf("Digite um numero para ser multiplicado e mostrar a sua tabuada ");
-    scanf("%d", &nDigitado);
-
-    for (int i = 1; i <= 99999999999999999; ++i)
+    for (int i = 0; i < 20 ; ++i)
     {
-        printf("\n%2d . %2d = %2d", nDigitado, i, nDigitado * i);
+        scanf("%d", &nDigitado);
+        if (nDigitado % 2 == 0)
+        {
+            quantidadeNpares++;
+        }
     }
+
+    printf("\nA quantidade de numeros pares e: %d", quantidadeNpares);
 
     return 0;
 }
