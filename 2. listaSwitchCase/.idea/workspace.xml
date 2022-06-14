@@ -7,7 +7,9 @@
     <option name="reloaded" value="true" />
   </component>
   <component name="CMakeRunConfigurationManager">
-    <generated />
+    <generated>
+      <config projectName="raphaelfmiranda" targetName="raphaelfmiranda" />
+    </generated>
   </component>
   <component name="CMakeSettings">
     <configurations>
@@ -16,73 +18,73 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a67f36ef-25cd-4a33-a3f0-08cac9de6a15" name="Changes" comment=". . .">
-      <change afterPath="$PROJECT_DIR$/../1. Lista de Exercícios em C/cmake-build-debug/.cmake/api/v1/query/cache-v2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1. Lista de Exercícios em C/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1. Lista de Exercícios em C/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1. Lista de Exercícios em C/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1. Lista de Exercícios em C/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1. Lista de Exercícios em C/cmake-build-debug/CMakeFiles/3.22.3/CMakeCCompiler.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1. Lista de Exercícios em C/cmake-build-debug/CMakeFiles/3.22.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1. Lista de Exercícios em C/cmake-build-debug/CMakeFiles/3.22.3/CMakeSystem.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1. Lista de Exercícios em C/cmake-build-debug/CMakeFiles/3.22.3/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1. Lista de Exercícios em C/cmake-build-debug/CMakeFiles/3.22.3/CompilerIdC/CMakeCCompilerId.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1. Lista de Exercícios em C/cmake-build-debug/CMakeFiles/CMakeError.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1. Lista de Exercícios em C/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1. Lista de Exercícios em C/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1. Lista de Exercícios em C/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3. Lista de Exercícios - Comandos de Repetição/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3. Lista de Exercícios - Comandos de Repetição/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3. Lista de Exercícios - Comandos de Repetição/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../1. Lista de Exercícios em C/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Lista de Exercícios em C/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../listaSwitchCase/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../listaSwitchCase/.idea/listaSwitchCase.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../listaSwitchCase/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../listaSwitchCase/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../listaSwitchCase/.idea/shelf/Uncommitted_changes_before_Update_at_14_06_22_19_34_[Changes]/Lista Switch case.pages" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../listaSwitchCase/.idea/shelf/Uncommitted_changes_before_Update_at_14_06_22_19_34_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../listaSwitchCase/.idea/shelf/Uncommitted_changes_before_Update_at_14_06_22_19_34__Changes_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../listaSwitchCase/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../listaSwitchCase/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../listaSwitchCase/CMakeLists.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../listaSwitchCase/Lista Switch case.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../listaSwitchCase/cmake-build-debug/.cmake/api/v1/query/cache-v2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../listaSwitchCase/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../listaSwitchCase/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../listaSwitchCase/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../listaSwitchCase/cmake-build-debug/.cmake/api/v1/reply/cache-v2-b41b38f66bbc2591e668.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../listaSwitchCase/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-e4859e0485374132fb2d.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../listaSwitchCase/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-5b21765296814df382b8.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../listaSwitchCase/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-f5ebdc15457944623624.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../listaSwitchCase/cmake-build-debug/.cmake/api/v1/reply/index-2022-06-14T03-21-16-0635.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../listaSwitchCase/cmake-build-debug/.cmake/api/v1/reply/target-raphaelfmiranda-Debug-64af38a451fe2cc104bb.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../listaSwitchCase/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-37b208d87cd22233f786.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../listaSwitchCase/cmake-build-debug/.ninja_deps" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../listaSwitchCase/cmake-build-debug/.ninja_log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../listaSwitchCase/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../listaSwitchCase/cmake-build-debug/CMakeFiles/3.22.3/CMakeCCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../listaSwitchCase/cmake-build-debug/CMakeFiles/3.22.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../listaSwitchCase/cmake-build-debug/CMakeFiles/3.22.3/CMakeSystem.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../listaSwitchCase/cmake-build-debug/CMakeFiles/3.22.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../listaSwitchCase/cmake-build-debug/CMakeFiles/3.22.3/CompilerIdC/CMakeCCompilerId.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../listaSwitchCase/cmake-build-debug/CMakeFiles/CMakeError.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../listaSwitchCase/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../listaSwitchCase/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../listaSwitchCase/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../listaSwitchCase/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../listaSwitchCase/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../listaSwitchCase/cmake-build-debug/CMakeFiles/raphaelfmiranda.dir/programacaoEmC_switchCase_1.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../listaSwitchCase/cmake-build-debug/CMakeFiles/raphaelfmiranda.dir/programacaoEmC_switchCase_2.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../listaSwitchCase/cmake-build-debug/CMakeFiles/raphaelfmiranda.dir/programacaoEmC_switchCase_3.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../listaSwitchCase/cmake-build-debug/CMakeFiles/raphaelfmiranda.dir/programacaoEmC_switchCase_4.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../listaSwitchCase/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../listaSwitchCase/cmake-build-debug/Makefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../listaSwitchCase/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../listaSwitchCase/cmake-build-debug/build.ninja" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../listaSwitchCase/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../listaSwitchCase/cmake-build-debug/raphaelfmiranda" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../listaSwitchCase/cmake-build-debug/raphaelfmiranda.cbp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../listaSwitchCase/lista Switch Case" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../listaSwitchCase/programacaoEmC_switchCase_1.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../listaSwitchCase/programacaoEmC_switchCase_2.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../listaSwitchCase/programacaoEmC_switchCase_3.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../listaSwitchCase/programacaoEmC_switchCase_4.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IFNMG_algoritmoEprogramacao/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IFNMG_algoritmoEprogramacao/.idea/IFNMG_algoritmoEprogramacao.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IFNMG_algoritmoEprogramacao/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IFNMG_algoritmoEprogramacao/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IFNMG_algoritmoEprogramacao/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IFNMG_algoritmoEprogramacao/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IFNMG_algoritmoEprogramacao/cmake-build-debug/.cmake/api/v1/query/cache-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IFNMG_algoritmoEprogramacao/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IFNMG_algoritmoEprogramacao/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IFNMG_algoritmoEprogramacao/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IFNMG_algoritmoEprogramacao/cmake-build-debug/.cmake/api/v1/reply/cache-v2-c6c590bffaf814bfd1f9.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IFNMG_algoritmoEprogramacao/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-01b070ffc4947f2f3dc8.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IFNMG_algoritmoEprogramacao/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-fe03ead38ba678cfceeb.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IFNMG_algoritmoEprogramacao/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-f5ebdc15457944623624.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IFNMG_algoritmoEprogramacao/cmake-build-debug/.cmake/api/v1/reply/index-2022-06-02T05-27-38-0476.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IFNMG_algoritmoEprogramacao/cmake-build-debug/.cmake/api/v1/reply/target-IFNMG_algoritmoEprogramacao-Debug-4ecd6ddae8b5623f6f27.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IFNMG_algoritmoEprogramacao/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-37b208d87cd22233f786.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IFNMG_algoritmoEprogramacao/cmake-build-debug/.ninja_deps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IFNMG_algoritmoEprogramacao/cmake-build-debug/.ninja_log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IFNMG_algoritmoEprogramacao/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IFNMG_algoritmoEprogramacao/cmake-build-debug/CMakeFiles/3.22.3/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IFNMG_algoritmoEprogramacao/cmake-build-debug/CMakeFiles/3.22.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IFNMG_algoritmoEprogramacao/cmake-build-debug/CMakeFiles/3.22.3/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IFNMG_algoritmoEprogramacao/cmake-build-debug/CMakeFiles/3.22.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IFNMG_algoritmoEprogramacao/cmake-build-debug/CMakeFiles/3.22.3/CompilerIdC/CMakeCCompilerId.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IFNMG_algoritmoEprogramacao/cmake-build-debug/CMakeFiles/CMakeError.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IFNMG_algoritmoEprogramacao/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IFNMG_algoritmoEprogramacao/cmake-build-debug/CMakeFiles/IFNMG_algoritmoEprogramacao.dir/comandosDeRepeticao12.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IFNMG_algoritmoEprogramacao/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IFNMG_algoritmoEprogramacao/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IFNMG_algoritmoEprogramacao/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IFNMG_algoritmoEprogramacao/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IFNMG_algoritmoEprogramacao/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IFNMG_algoritmoEprogramacao/cmake-build-debug/IFNMG_algoritmoEprogramacao" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IFNMG_algoritmoEprogramacao/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IFNMG_algoritmoEprogramacao/cmake-build-debug/build.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IFNMG_algoritmoEprogramacao/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IFNMG_algoritmoEprogramacao/comandosDeRepeticao1.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IFNMG_algoritmoEprogramacao/comandosDeRepeticao10.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IFNMG_algoritmoEprogramacao/comandosDeRepeticao11.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IFNMG_algoritmoEprogramacao/comandosDeRepeticao12.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IFNMG_algoritmoEprogramacao/comandosDeRepeticao15.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IFNMG_algoritmoEprogramacao/comandosDeRepeticao2.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IFNMG_algoritmoEprogramacao/comandosDeRepeticao3.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IFNMG_algoritmoEprogramacao/comandosDeRepeticao4.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IFNMG_algoritmoEprogramacao/comandosDeRepeticao5.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IFNMG_algoritmoEprogramacao/comandosDeRepeticao6.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IFNMG_algoritmoEprogramacao/comandosDeRepeticao7.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IFNMG_algoritmoEprogramacao/comandosDeRepeticao8.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IFNMG_algoritmoEprogramacao/comandosDeRepeticao9.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IFNMG_algoritmoEprogramacao/programacaoEmC_1.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IFNMG_algoritmoEprogramacao/programacaoEmC_10.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IFNMG_algoritmoEprogramacao/programacaoEmC_11.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IFNMG_algoritmoEprogramacao/programacaoEmC_12.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IFNMG_algoritmoEprogramacao/programacaoEmC_2.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IFNMG_algoritmoEprogramacao/programacaoEmC_3.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IFNMG_algoritmoEprogramacao/programacaoEmC_4.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IFNMG_algoritmoEprogramacao/programacaoEmC_5.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IFNMG_algoritmoEprogramacao/programacaoEmC_6.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IFNMG_algoritmoEprogramacao/programacaoEmC_7.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IFNMG_algoritmoEprogramacao/programacaoEmC_8.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IFNMG_algoritmoEprogramacao/programacaoEmC_9.c" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,6 +94,7 @@
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="Git.Settings">
     <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="PUSH_TAGS">
@@ -159,7 +162,7 @@
       <updated>1655082108458</updated>
       <workItem from="1655082110178" duration="3441000" />
       <workItem from="1655173846478" duration="4911000" />
-      <workItem from="1655247182269" duration="45000" />
+      <workItem from="1655247182269" duration="604000" />
     </task>
     <task id="LOCAL-00001" summary="Create README.md">
       <created>1655174438788</created>
@@ -217,7 +220,21 @@
       <option name="project" value="LOCAL" />
       <updated>1655246112531</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary=". . .">
+      <created>1655247370519</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1655247370520</updated>
+    </task>
+    <task id="LOCAL-00010" summary=". . .">
+      <created>1655247382364</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1655247382364</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
