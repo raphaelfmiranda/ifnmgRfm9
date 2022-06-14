@@ -1,0 +1,35 @@
+Lista de Exercícios em C
+
+1. Faça um programa que leia dois números e mostre a soma.
+
+2. Uma empresa contrata um eletricista a R$50,70 por dia. Elabore um programa em C que solicite ao usuário o número de dias trabalhados pelo eletricista e imprima a quantia que ele deverá receber.
+
+3. João vai todos os dias à padaria para comprar pão. Elabore um programa que peça o preço do pão e a quantidade comprada. Totalize o valor da compra de João.
+
+4. Maria vai todos os dias à padaria para comprar pão, leite e suco de caixinha. Elabore um programa que peça os valores dos produtos, a quantidade e totalize o valor da compra de Maria.
+
+5. Faça um programa que receba o salário de um funcionário, calcule e mostre o novo salário, sabendo-se que este sofreu um aumento de 25%.
+
+6. Faça um programa que solicite ao usuário um número positivo e maior que zero, calcule e mostre:
+*   o número digitado ao quadrado;
+*   o número digitado ao cubo;
+*   a raiz quadrada do número digitado;
+
+
+7. Faça um programa que receba o ano de nascimento de uma pessoa, calcule e mostre:
+*   a idade da pessoa em 2018;
+*   quantos anos essa pessoa terá em 2030
+
+8. Escreva um programa para calcular a área e o perímetro de um retângulo, sendo dadas as medidas dos lados.
+*   Area=b*h
+*   Perimetro=b*2+h*2
+
+9. Faça um algoritmo que leia o peso e altura de uma pessoa, em seguida calcule e mostre seu IMC (Índice de Massa Corporal). IMC=peso/altura2.
+
+10. Escreva um programa que leia o valor do raio de um círculo e calcule a área e a circunferência deste círculo.
+*   A = π * r²
+*   C = 2·π·r
+
+11. Faça um programa que leia quatro idades e calcule a média das mesmas
+
+12. Faça um programa em C que leia um número e exiba seu sucessor e antecessor.
