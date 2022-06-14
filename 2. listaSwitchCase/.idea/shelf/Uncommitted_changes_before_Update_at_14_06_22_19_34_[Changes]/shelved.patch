@@ -1,0 +1,140 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\n  </component>\n  <component name=\"CMakeReloadState\">\n    <option name=\"reloaded\" value=\"true\" />\n  </component>\n  <component name=\"CMakeRunConfigurationManager\">\n    <generated>\n      <config projectName=\"raphaelfmiranda\" targetName=\"raphaelfmiranda\" />\n    </generated>\n  </component>\n  <component name=\"CMakeSettings\">\n    <configurations>\n      <configuration PROFILE_NAME=\"Debug\" ENABLED=\"true\" CONFIG_NAME=\"Debug\" />\n    </configurations>\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"a67f36ef-25cd-4a33-a3f0-08cac9de6a15\" name=\"Changes\" comment=\"Create README.md\">\n      <change beforePath=\"$PROJECT_DIR$/Lista Switch case.pdf\" beforeDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"ClangdSettings\">\n    <option name=\"formatViaClangd\" value=\"false\" />\n  </component>\n  <component name=\"ExecutionTargetManager\" SELECTED_TARGET=\"CMakeBuildProfile:Debug\" />\n  <component name=\"Git.Settings\">\n    <option name=\"PUSH_AUTO_UPDATE\" value=\"true\" />\n    <option name=\"PUSH_TAGS\">\n      <GitPushTagMode>\n        <option name=\"argument\" value=\"--tags\" />\n        <option name=\"title\" value=\"All\" />\n      </GitPushTagMode>\n    </option>\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$/..\" />\n  </component>\n  <component name=\"MarkdownSettingsMigration\">\n    <option name=\"stateVersion\" value=\"1\" />\n  </component>\n  <component name=\"ProjectApplicationVersion\">\n    <option name=\"ide\" value=\"CLion\" />\n    <option name=\"majorVersion\" value=\"2022\" />\n    <option name=\"minorVersion\" value=\"1.2\" />\n  </component>\n  <component name=\"ProjectId\" id=\"2AV5rBkCAjZVCcwh6u6dgWr2cQy\" />\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\">\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\n  </component>\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\"><![CDATA[{\n  \"keyToString\": {\n    \"ASKED_SHARE_PROJECT_CONFIGURATION_FILES\": \"true\",\n    \"RunOnceActivity.cidr.known.project.marker\": \"true\",\n    \"SHARE_PROJECT_CONFIGURATION_FILES\": \"true\",\n    \"WebServerToolWindowFactoryState\": \"false\",\n    \"cf.first.check.clang-format\": \"false\",\n    \"cidr.known.project.marker\": \"true\",\n    \"last_opened_file_path\": \"/Users/raphaelfariasmiranda/Documents/GitHub/ifnmgRfm9/listaSwitchCase\",\n    \"node.js.detected.package.eslint\": \"true\",\n    \"node.js.detected.package.tslint\": \"true\",\n    \"node.js.selected.package.eslint\": \"(autodetect)\",\n    \"node.js.selected.package.tslint\": \"(autodetect)\",\n    \"settings.editor.selected.configurable\": \"configurable.group.appearance\"\n  }\n}]]></component>\n  <component name=\"RunManager\">\n    <configuration default=\"true\" type=\"CMakeRunConfiguration\" factoryName=\"Application\" REDIRECT_INPUT=\"false\" ELEVATE=\"false\" USE_EXTERNAL_CONSOLE=\"false\" PASS_PARENT_ENVS_2=\"true\">\n      <method v=\"2\">\n        <option name=\"com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration name=\"raphaelfmiranda\" type=\"CMakeRunConfiguration\" factoryName=\"Application\" REDIRECT_INPUT=\"false\" ELEVATE=\"false\" USE_EXTERNAL_CONSOLE=\"false\" PASS_PARENT_ENVS_2=\"true\" PROJECT_NAME=\"raphaelfmiranda\" TARGET_NAME=\"raphaelfmiranda\" CONFIG_NAME=\"Debug\" RUN_TARGET_PROJECT_NAME=\"raphaelfmiranda\" RUN_TARGET_NAME=\"raphaelfmiranda\">\n      <method v=\"2\">\n        <option name=\"com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask\" enabled=\"true\" />\n      </method>\n    </configuration>\n  </component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"a67f36ef-25cd-4a33-a3f0-08cac9de6a15\" name=\"Changes\" comment=\"\" />\n      <created>1655082108458</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1655082108458</updated>\n      <workItem from=\"1655082110178\" duration=\"3441000\" />\n      <workItem from=\"1655173846478\" duration=\"3933000\" />\n    </task>\n    <task id=\"LOCAL-00001\" summary=\"Create README.md\">\n      <created>1655174438788</created>\n      <option name=\"number\" value=\"00001\" />\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1655174438788</updated>\n    </task>\n    <task id=\"LOCAL-00002\" summary=\"Create README.md\">\n      <created>1655174453463</created>\n      <option name=\"number\" value=\"00002\" />\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1655174453463</updated>\n    </task>\n    <task id=\"LOCAL-00003\" summary=\"Create README.md\">\n      <created>1655176045010</created>\n      <option name=\"number\" value=\"00003\" />\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1655176045010</updated>\n    </task>\n    <task id=\"LOCAL-00004\" summary=\"Create README.md\">\n      <created>1655176055329</created>\n      <option name=\"number\" value=\"00004\" />\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1655176055329</updated>\n    </task>\n    <task id=\"LOCAL-00005\" summary=\"Create README.md\">\n      <created>1655177535271</created>\n      <option name=\"number\" value=\"00005\" />\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1655177535271</updated>\n    </task>\n    <task id=\"LOCAL-00006\" summary=\"Create README.md\">\n      <created>1655177546769</created>\n      <option name=\"number\" value=\"00006\" />\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1655177546769</updated>\n    </task>\n    <option name=\"localTasksCounter\" value=\"7\" />\n    <servers />\n  </component>\n  <component name=\"TypeScriptGeneratedFilesManager\">\n    <option name=\"version\" value=\"3\" />\n  </component>\n  <component name=\"Vcs.Log.Tabs.Properties\">\n    <option name=\"TAB_STATES\">\n      <map>\n        <entry key=\"MAIN\">\n          <value>\n            <State />\n          </value>\n        </entry>\n      </map>\n    </option>\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <MESSAGE value=\"Create README.md\" />\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Create README.md\" />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision ff2ed618553b3ad68eca998672cae1f1b3c6ded3)
++++ b/.idea/workspace.xml	(date 1655245946363)
+@@ -18,7 +18,9 @@
+   </component>
+   <component name="ChangeListManager">
+     <list default="true" id="a67f36ef-25cd-4a33-a3f0-08cac9de6a15" name="Changes" comment="Create README.md">
+-      <change beforePath="$PROJECT_DIR$/Lista Switch case.pdf" beforeDir="false" />
++      <change afterPath="$PROJECT_DIR$/../algoritmoEprogramacaoC/.idea/workspace.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Lista Switch case.pages" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -57,6 +59,7 @@
+   </component>
+   <component name="PropertiesComponent"><![CDATA[{
+   "keyToString": {
++    "ASKED_ADD_EXTERNAL_FILES": "true",
+     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+     "RunOnceActivity.cidr.known.project.marker": "true",
+     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+@@ -92,7 +95,7 @@
+       <option name="presentableId" value="Default" />
+       <updated>1655082108458</updated>
+       <workItem from="1655082110178" duration="3441000" />
+-      <workItem from="1655173846478" duration="3933000" />
++      <workItem from="1655173846478" duration="4228000" />
+     </task>
+     <task id="LOCAL-00001" summary="Create README.md">
+       <created>1655174438788</created>
+@@ -136,7 +139,14 @@
+       <option name="project" value="LOCAL" />
+       <updated>1655177546769</updated>
+     </task>
+-    <option name="localTasksCounter" value="7" />
++    <task id="LOCAL-00007" summary="Create README.md">
++      <created>1655178001894</created>
++      <option name="number" value="00007" />
++      <option name="presentableId" value="LOCAL-00007" />
++      <option name="project" value="LOCAL" />
++      <updated>1655178001895</updated>
++    </task>
++    <option name="localTasksCounter" value="8" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -154,6 +164,7 @@
+     </option>
+   </component>
+   <component name="VcsManagerConfiguration">
++    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+     <MESSAGE value="Create README.md" />
+     <option name="LAST_COMMIT_MESSAGE" value="Create README.md" />
+   </component>
+Index: ../algoritmoEprogramacaoC/.idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../algoritmoEprogramacaoC/.idea/workspace.xml b/../algoritmoEprogramacaoC/.idea/workspace.xml
+new file mode 100644
+--- /dev/null	(date 1655245946381)
++++ b/../algoritmoEprogramacaoC/.idea/workspace.xml	(date 1655245946381)
+@@ -0,0 +1,67 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="AutoImportSettings">
++    <option name="autoReloadType" value="SELECTIVE" />
++  </component>
++  <component name="CMakeSettings">
++    <configurations>
++      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
++    </configurations>
++  </component>
++  <component name="ChangeListManager">
++    <list default="true" id="b20df69c-9ebb-4bbe-ab4e-2476399fce03" name="Changes" comment="">
++      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/../listaSwitchCase/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../listaSwitchCase/.idea/workspace.xml" afterDir="false" />
++    </list>
++    <option name="SHOW_DIALOG" value="false" />
++    <option name="HIGHLIGHT_CONFLICTS" value="true" />
++    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
++    <option name="LAST_RESOLUTION" value="IGNORE" />
++  </component>
++  <component name="ClangdSettings">
++    <option name="formatViaClangd" value="false" />
++  </component>
++  <component name="Git.Settings">
++    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
++  </component>
++  <component name="MarkdownSettingsMigration">
++    <option name="stateVersion" value="1" />
++  </component>
++  <component name="ProjectId" id="2AYETjfUB8SBzFfOdd0YuTW0haw" />
++  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
++  <component name="ProjectViewState">
++    <option name="hideEmptyMiddlePackages" value="true" />
++    <option name="showLibraryContents" value="true" />
++  </component>
++  <component name="PropertiesComponent"><![CDATA[{
++  "keyToString": {
++    "RunOnceActivity.OpenProjectViewOnStart": "true",
++    "RunOnceActivity.ShowReadmeOnStart": "true",
++    "RunOnceActivity.cidr.known.project.marker": "true",
++    "WebServerToolWindowFactoryState": "false",
++    "cf.first.check.clang-format": "false",
++    "cidr.known.project.marker": "true",
++    "last_opened_file_path": "/Users/raphaelfariasmiranda/Documents/GitHub/ifnmgRfm9/algoritmoEprogramacaoC",
++    "node.js.detected.package.eslint": "true",
++    "node.js.detected.package.tslint": "true",
++    "node.js.selected.package.eslint": "(autodetect)",
++    "node.js.selected.package.tslint": "(autodetect)",
++    "settings.editor.selected.configurable": "configurable.group.appearance"
++  }
++}]]></component>
++  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
++  <component name="TaskManager">
++    <task active="true" id="Default" summary="Default task">
++      <changelist id="b20df69c-9ebb-4bbe-ab4e-2476399fce03" name="Changes" comment="" />
++      <created>1655178127871</created>
++      <option name="number" value="Default" />
++      <option name="presentableId" value="Default" />
++      <updated>1655178127871</updated>
++      <workItem from="1655178129335" duration="150000" />
++    </task>
++    <servers />
++  </component>
++  <component name="TypeScriptGeneratedFilesManager">
++    <option name="version" value="3" />
++  </component>
++</project>
+\ No newline at end of file
