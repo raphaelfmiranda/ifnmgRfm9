@@ -13,22 +13,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b20df69c-9ebb-4bbe-ab4e-2476399fce03" name="Changes" comment=". . .">
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/query/cache-v2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.22.3/CMakeCCompiler.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.22.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.22.3/CMakeSystem.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.22.3/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.22.3/CompilerIdC/CMakeCCompilerId.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeError.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../listaSwitchCase/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../listaSwitchCase/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista de Exercícios em C.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programacaoEmC_1.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programacaoEmC_10.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programacaoEmC_11.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programacaoEmC_12.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programacaoEmC_2.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programacaoEmC_3.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programacaoEmC_4.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programacaoEmC_5.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programacaoEmC_6.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programacaoEmC_7.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programacaoEmC_8.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programacaoEmC_9.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CLista de Exercícios em C.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cópia de Lista de Exercícios em C.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algoritmoEprogramacaoCifElse/main.cpp" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,11 +77,6 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -95,6 +90,7 @@
       <workItem from="1655246772970" duration="1000" />
       <workItem from="1655246929938" duration="52000" />
       <workItem from="1655247077038" duration="64000" />
+      <workItem from="1655247601061" duration="1000" />
     </task>
     <task id="LOCAL-00001" summary=". . .">
       <created>1655246938433</created>
