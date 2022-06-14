@@ -3,22 +3,18 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
   <component name="CMakeSettings">
     <configurations>
       <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b20df69c-9ebb-4bbe-ab4e-2476399fce03" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../Lista de Exercícios em C/.idea/algoritmoEprogramacaoC.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lista de Exercícios em C/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lista de Exercícios em C/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lista de Exercícios em C/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lista de Exercícios em C/CLista de Exercícios em C.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lista de Exercícios em C/Cópia de Lista de Exercícios em C.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lista de Exercícios em C/Lista de Exercícios em C" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lista de Exercícios em C/main.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../algoritmoEprogramacaoC/CLista de Exercícios em C.docx" beforeDir="false" />
+    <list default="true" id="b20df69c-9ebb-4bbe-ab4e-2476399fce03" name="Changes" comment=". . .">
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_06_22_19_49_[Changes]/shelved.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +29,11 @@
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2022" />
+    <option name="minorVersion" value="1.2" />
   </component>
   <component name="ProjectId" id="2AYETjfUB8SBzFfOdd0YuTW0haw" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -56,6 +57,13 @@
     "settings.editor.selected.configurable": "configurable.group.appearance"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -66,8 +74,16 @@
       <updated>1655178127871</updated>
       <workItem from="1655178129335" duration="176000" />
       <workItem from="1655246772970" duration="1000" />
-      <workItem from="1655246929938" duration="1000" />
+      <workItem from="1655246929938" duration="52000" />
     </task>
+    <task id="LOCAL-00001" summary=". . .">
+      <created>1655246938433</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1655246938433</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -83,5 +99,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value=". . ." />
+    <option name="LAST_COMMIT_MESSAGE" value=". . ." />
   </component>
 </project>
