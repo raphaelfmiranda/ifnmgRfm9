@@ -1,6 +1,18 @@
 # ninja log v5
+1	123	1655174688104728590	CMakeFiles/raphaelfmiranda.dir/programacaoEmC_switchCase_4.c.o	bf2f68497173fb0a
+108	241	1655174987104459402	raphaelfmiranda	8281c48afa0ce523
+1	159	1655175082485251202	build.ninja	3cbe77fe5bf0d31b
+0	107	1655174986971378294	CMakeFiles/raphaelfmiranda.dir/programacaoEmC_switchCase_2.c.o	7c4b09000e8ba026
 0	434	1655174365365870520	CMakeFiles/raphaelfmiranda.dir/programacaoEmC_switchCase_1.c.o	9a98bf85492e050f
-2	433	1655174365365096766	CMakeFiles/raphaelfmiranda.dir/programacaoEmC_switchCase_2.c.o	7c4b09000e8ba026
-82	217	1655085413354829963	raphaelfmiranda	ac4b18e4e33c7fbc
-0	158	1655174376073188199	build.ninja	3cbe77fe5bf0d31b
-0	232	1655174376319489664	raphaelfmiranda	810d56d776177d35
+0	182	1655175209149835892	CMakeFiles/raphaelfmiranda.dir/programacaoEmC_switchCase_3.c.o	4d2924484908d7d6
+183	342	1655175209309949061	raphaelfmiranda	120bdf9327631506
+2	102	1655175802530925557	CMakeFiles/raphaelfmiranda.dir/programacaoEmC_switchCase_3.c.o	4d2924484908d7d6
+103	247	1655175802677586795	raphaelfmiranda	120bdf9327631506
+0	797	1655175891342663067	CMakeFiles/raphaelfmiranda.dir/programacaoEmC_switchCase_3.c.o	4d2924484908d7d6
+797	919	1655175891472874890	raphaelfmiranda	120bdf9327631506
+1	105	1655175980979027359	CMakeFiles/raphaelfmiranda.dir/programacaoEmC_switchCase_3.c.o	4d2924484908d7d6
+105	193	1655175981069324969	raphaelfmiranda	120bdf9327631506
+0	88	1655176016535054130	CMakeFiles/raphaelfmiranda.dir/programacaoEmC_switchCase_3.c.o	4d2924484908d7d6
+88	220	1655176016667087579	raphaelfmiranda	120bdf9327631506
+1	90	1655176022470539026	CMakeFiles/raphaelfmiranda.dir/programacaoEmC_switchCase_3.c.o	4d2924484908d7d6
+91	191	1655176022572043728	raphaelfmiranda	120bdf9327631506

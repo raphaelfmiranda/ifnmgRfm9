@@ -49,8 +49,8 @@ cmake_ninja_workdir = /Users/raphaelfariasmiranda/Documents/GitHub/ifnmgRfm9/lis
 
 build cmake_object_order_depends_target_raphaelfmiranda: phony || CMakeFiles/raphaelfmiranda.dir
 
-build CMakeFiles/raphaelfmiranda.dir/programacaoEmC_switchCase_1.c.o: C_COMPILER__raphaelfmiranda_Debug /Users/raphaelfariasmiranda/Documents/GitHub/ifnmgRfm9/listaSwitchCase/programacaoEmC_switchCase_1.c || cmake_object_order_depends_target_raphaelfmiranda
-  DEP_FILE = CMakeFiles/raphaelfmiranda.dir/programacaoEmC_switchCase_1.c.o.d
+build CMakeFiles/raphaelfmiranda.dir/programacaoEmC_switchCase_3.c.o: C_COMPILER__raphaelfmiranda_Debug /Users/raphaelfariasmiranda/Documents/GitHub/ifnmgRfm9/listaSwitchCase/programacaoEmC_switchCase_3.c || cmake_object_order_depends_target_raphaelfmiranda
+  DEP_FILE = CMakeFiles/raphaelfmiranda.dir/programacaoEmC_switchCase_3.c.o.d
   FLAGS = -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu11
   INCLUDES = -I/Users/raphaelfariasmiranda/Documents/GitHub/ifnmgRfm9/listaSwitchCase/listaSwitchCase
   OBJECT_DIR = CMakeFiles/raphaelfmiranda.dir
@@ -64,7 +64,7 @@ build CMakeFiles/raphaelfmiranda.dir/programacaoEmC_switchCase_1.c.o: C_COMPILER
 #############################################
 # Link the executable raphaelfmiranda
 
-build raphaelfmiranda: C_EXECUTABLE_LINKER__raphaelfmiranda_Debug CMakeFiles/raphaelfmiranda.dir/programacaoEmC_switchCase_1.c.o
+build raphaelfmiranda: C_EXECUTABLE_LINKER__raphaelfmiranda_Debug CMakeFiles/raphaelfmiranda.dir/programacaoEmC_switchCase_3.c.o
   FLAGS = -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
   OBJECT_DIR = CMakeFiles/raphaelfmiranda.dir
   POST_BUILD = :

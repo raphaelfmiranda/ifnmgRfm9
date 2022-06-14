@@ -2,21 +2,50 @@
 
 int main()
 {
+    int seletor;
 
-    int n1, n2, seletor;
+    float n1, n2;
 
-    printf("1 - Média dos números digitados\n");
-    printf("2 - Diferença entre os números\n");
-    printf("3 - Produto entre os números digitados\n");
-    printf("4 - Divisão do 1o pelo 2o\n");
-    printf("Digite sua opção: \n")
+    printf("1 - MEDIA ENTRE OS NUMEROS DIGITADOS: \n");
+    printf("2 - DIFERENCA ENTRE OS NUMEROS: \n");
+    printf("3 - PRODUTO ENTRE OS NUMEROS DIGITADOS: \n");
+    printf("4 - DIVISAO DO PRIMEIRO PELO SEGUNDO: \n");
+    printf("---------------------------------------- \n");
+    printf("DIGITE A SUA OPCAO: ");
     scanf("%d", &seletor);
 
+    printf("Digite o 1o numero: ")   ;   scanf("%f", &n1);
+    printf("Digite o 2o numero: ")   ;   scanf("%f", &n2);
 
-    printf("Digite dois números: \n");
-    scanf("%d%d", &n1, &n2);
+    switch(seletor)
+    {
+        case (1):
+        {
+            printf("%.2f", ((n1+n2)/2));
+        }
+        break;
 
+        case (2):
+        {
+            printf("%.2f", n1-n2);
+        }
+        break;
 
-    printf("%d", n1 * n2);
+        case (3):
+        {
+            printf("%.2f", n1*n2);
+        }
+        break;
 
+        case (4):
+        {
+            printf("%.2f", n1/n2);
+        }
+        break;
+
+        default:
+            printf("\nERRO\n");
+            return 0;
+    }
+    return 0;
 }

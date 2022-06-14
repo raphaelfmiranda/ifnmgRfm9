@@ -3,7 +3,7 @@
 int main()
 {
     int nDigitado;
-    printf("Digite um número:\n");
+    printf("Digite um número entre 1 e 10:\n");
     scanf("%d", &nDigitado);
 
     switch(nDigitado)

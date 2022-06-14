@@ -5,4 +5,4 @@ set(CMAKE_C_STANDARD 11)
 
 include_directories( listaSwitchCase )
 
-add_executable(raphaelfmiranda ../listaSwitchCase/programacaoEmC_switchCase_1.c)
+add_executable(raphaelfmiranda ../listaSwitchCase/programacaoEmC_switchCase_3.c)
