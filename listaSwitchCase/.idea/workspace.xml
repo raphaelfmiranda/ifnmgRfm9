@@ -18,7 +18,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a67f36ef-25cd-4a33-a3f0-08cac9de6a15" name="Changes" comment="Create README.md">
-      <change beforePath="$PROJECT_DIR$/Lista Switch case.pdf" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algoritmoEprogramacaoC/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista Switch case.pages" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +59,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -92,7 +95,7 @@
       <option name="presentableId" value="Default" />
       <updated>1655082108458</updated>
       <workItem from="1655082110178" duration="3441000" />
-      <workItem from="1655173846478" duration="3933000" />
+      <workItem from="1655173846478" duration="4228000" />
     </task>
     <task id="LOCAL-00001" summary="Create README.md">
       <created>1655174438788</created>
@@ -136,7 +139,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655177546769</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Create README.md">
+      <created>1655178001894</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1655178001895</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -154,6 +164,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Create README.md" />
     <option name="LAST_COMMIT_MESSAGE" value="Create README.md" />
   </component>
