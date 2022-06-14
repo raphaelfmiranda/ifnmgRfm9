@@ -10,15 +10,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b20df69c-9ebb-4bbe-ab4e-2476399fce03" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../Cópia de Lista de Exercícios em C.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../algoritmoEprogramacaoC/.idea/algoritmoEprogramacaoC.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../algoritmoEprogramacaoC/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../algoritmoEprogramacaoC/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../algoritmoEprogramacaoC/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lista de Exercícios em C/.idea/algoritmoEprogramacaoC.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lista de Exercícios em C/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lista de Exercícios em C/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lista de Exercícios em C/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lista de Exercícios em C/CLista de Exercícios em C.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lista de Exercícios em C/Cópia de Lista de Exercícios em C.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lista de Exercícios em C/Lista de Exercícios em C" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lista de Exercícios em C/main.c" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../algoritmoEprogramacaoC/CLista de Exercícios em C.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../algoritmoEprogramacaoC/CLista de Exercícios em C.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../algoritmoEprogramacaoC/Lista de Exercícios em C" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../algoritmoEprogramacaoC/main.c" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +48,7 @@
     "WebServerToolWindowFactoryState": "false",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
-    "last_opened_file_path": "/Users/raphaelfariasmiranda/Documents/GitHub/ifnmgRfm9/Lista de Exercícios em C",
+    "last_opened_file_path": "/Users/raphaelfariasmiranda/Documents/GitHub/ifnmgRfm9/1. Lista de Exercícios em C",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -66,6 +66,7 @@
       <updated>1655178127871</updated>
       <workItem from="1655178129335" duration="176000" />
       <workItem from="1655246772970" duration="1000" />
+      <workItem from="1655246929938" duration="1000" />
     </task>
     <servers />
   </component>
