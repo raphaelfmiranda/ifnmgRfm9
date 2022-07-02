@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "exercicios_sobre_strings",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "exercicios_sobre_strings::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-exercicios_sobre_strings-Debug-ccd85e1d6d67ba45bb54.json",
+					"name" : "exercicios_sobre_strings",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/raphaelfariasmiranda/Documents/GitHub/ifnmgRfm9/exercicios_sobre_strings/cmake-build-debug",
+		"source" : "/Users/raphaelfariasmiranda/Documents/GitHub/ifnmgRfm9/exercicios_sobre_strings"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
